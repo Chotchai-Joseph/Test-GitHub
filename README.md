@@ -1,5 +1,5 @@
 # Test GitHub
  Learn GitHub Desktop
 
-Test Branch
-Test Code
+Test Branch ${Branch}
+Test Code   ${Code}
